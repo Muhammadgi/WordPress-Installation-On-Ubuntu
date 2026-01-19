@@ -400,10 +400,10 @@ If this guide helped you, please consider:
 
 **Your Name**
 
-- Website: [yourwebsite.com](https://yourwebsite.com)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- Website: [aws.codebyharris.com](https://yourwebsite.com)
+- GitHub: [@Muhammadg](https://github.com/yourusername)
+- Twitter: [@HARISKHANHK9](https://x.com/HARISKHANHK9)
+- LinkedIn: [Muhammad Haris](https://www.linkedin.com/in/muhammad-haris-323268236/)
 
 ## 🙏 Acknowledgments
 
@@ -415,7 +415,7 @@ If this guide helped you, please consider:
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/yourusername">Muhammad Haris</a>
 </p>
 
 <p align="center">
