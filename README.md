@@ -344,7 +344,7 @@ Install plugins like:
 
 ### 8. Monitor Security
 
-- Install Wordfence or Sucuri
+- Install Wordfence and Solid WP
 - Enable email notifications
 - Review security logs weekly
 
@@ -383,10 +383,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Need help? Here's how to get support:
 
-- 📖 Check the [full tutorial](link-to-your-blog-post)
-- 🐛 [Open an issue](https://github.com/yourusername/wordpress-installation-guide/issues)
-- 💬 [Start a discussion](https://github.com/yourusername/wordpress-installation-guide/discussions)
-- 📧 Email: your-email@example.com
+- 📧 Email: khanhkharis1@gmail.com
 
 ## ⭐ Show Your Support
 
@@ -394,11 +391,10 @@ If this guide helped you, please consider:
 - ⭐ Starring this repository
 - 🐦 Sharing on social media
 - 📝 Writing a blog post about your experience
-- 💰 [Buy me a coffee](https://buymeacoffee.com/yourusername)
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Muhammad Haris**
 
 - Website: [aws.codebyharris.com](https://yourwebsite.com)
 - GitHub: [@Muhammadg](https://github.com/yourusername)
